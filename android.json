@@ -1,0 +1,24 @@
+{
+    "expansion": false,
+    "google_play_key": null,
+    "google_play_salt": null,
+    "heap_size": "2",
+    "icon_name": "Note_in_bottle_of_red_water",
+    "include_pil": false,
+    "include_sqlite": false,
+    "layout": null,
+    "name": "Note_in_bottle_of_red_water",
+    "numeric_version": 1,
+    "orientation": "sensorLandscape",
+    "package": "com.noteofredbottle.programm",
+    "permissions": [
+        "VIBRATE",
+        "INTERNET"
+    ],
+    "source": false,
+    "store": "none",
+    "update_always": true,
+    "update_icons": true,
+    "update_keystores": true,
+    "version": "1.0"
+}

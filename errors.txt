@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 371: expected '=' not found.
+    image fanart_10.png = im.FactorScale('images/fanarts/fanart_9.jpg', 0.5)
+                   ^
+
+Ren'Py Version: Ren'Py 8.2.3.24061702
+Mon Aug 12 21:38:41 2024
